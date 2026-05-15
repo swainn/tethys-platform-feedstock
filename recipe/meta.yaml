@@ -30,7 +30,7 @@ requirements:
     - django >=4.2,<6
     - channels
     - daphne
-    - pyopenssl
+    - pyopenssl>=24.0.0
     - openssl
     - setuptools_scm
     - pip
